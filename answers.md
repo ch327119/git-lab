@@ -6,7 +6,7 @@
 >user.email=ch327119@ohio.edu  
 
 **Answer 3:**
->A list of common git commands is provided, grouped by the situations in which they are used.
+A list of common git commands is provided, grouped by the situations in which they are used.
 
 **Answer 4:**
 >On branch master
