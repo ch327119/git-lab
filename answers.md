@@ -18,7 +18,7 @@
 >
 >	README.md
 >	answers.md
-
+>
 >nothing added to commit but untracked files present (use "git add" to track)
 
 **Answer 5:**
@@ -73,16 +73,16 @@
 >  (use "git checkout -- <file>..." to discard changes in working directory)
 >
 >	modified:   answers.md
-
+>
 >no changes added to commit (use "git add" and/or "git commit -a")
 
 **Answer 10:**  
 No
 
-**Answer 11:**
+**Answer 11:**  
 An error message is displayed.
 
-**Answer 12:**
+**Answer 12:**  
 Yes
 
 **Answer 13:**
